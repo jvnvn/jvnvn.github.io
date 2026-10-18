@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.jvnvn.leaveapp",
+      "sha256_cert_fingerprints": ["EA:17:C0:AD:97:D9:1C:A5:3B:85:C9:DE:B6:BB:EC:EB:E7:DB:B5:0F:D1:B0:FE:6B:27:A3:A3:B6:99:37:F4:F7"]
+    }
+  }
+]
